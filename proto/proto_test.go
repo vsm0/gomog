@@ -1,7 +1,7 @@
 package proto
 
 import (
-	"gomog/proto/rpc"
+	"github.com/vsm0/gomog/proto/rpc"
 
 	"testing"
 

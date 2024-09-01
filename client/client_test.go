@@ -1,7 +1,7 @@
 package client
 
 import (
-	"gomog/proto/rpc"
+	"github.com/vsm0/gomog/proto/rpc"
 
 	"context"
 	"fmt"

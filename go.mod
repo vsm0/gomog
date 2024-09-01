@@ -1,4 +1,4 @@
-module gomog
+module github.com/vsm0/gomog
 
 go 1.23.0
 
